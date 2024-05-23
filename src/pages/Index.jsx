@@ -32,19 +32,19 @@ const Index = () => {
               <Heading as="h3" size="lg">
                 Exterior Wash
               </Heading>
-              <Text>Complete exterior wash with high-quality wax and polish.</Text>
+              <Text>Complete exterior wash with high-quality wax and polish. Price: £15</Text>
             </Box>
             <Box>
               <Heading as="h3" size="lg">
                 Interior Cleaning
               </Heading>
-              <Text>Thorough interior cleaning including vacuuming and upholstery cleaning.</Text>
+              <Text>Thorough interior cleaning including vacuuming and upholstery cleaning. Price: £20</Text>
             </Box>
             <Box>
               <Heading as="h3" size="lg">
                 Full Detailing
               </Heading>
-              <Text>Comprehensive detailing service to make your car look brand new.</Text>
+              <Text>Comprehensive detailing service to make your car look brand new. Price: £50</Text>
             </Box>
           </VStack>
           <Button as={Link} to="/services" colorScheme="blue" mt={4}>
